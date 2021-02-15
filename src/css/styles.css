@@ -17,16 +17,20 @@ body {
   background: linear-gradient(#244824, #24602d);
 }
 
-
 .first-face {
   justify-content: center;
   align-items: center;
 }
 
-.second-face {
-  justify-content: center;
-  align-items: center;
-}
+.second-face {}
+
+.third-face {}
+
+.fourth-face {}
+
+.fifth-face {}
+
+.sixth-face {}
 
 [class$="face"] {
   display: flex;
@@ -43,7 +47,6 @@ body {
     inset 4px 0 #5586b5,
     inset -4px 0 #537aa0,
     0 0 5px rgba(0, 0, 0, .5);
-
   border-radius: 10%;
 }
 
