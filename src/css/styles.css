@@ -28,7 +28,19 @@ body {
 
 .fourth-face {}
 
+.fourth-face .fourth-face-first {}
+
+.fourth-face .fourth-face-first .pip {}
+
+.fourth-face .fourth-face-last {}
+
 .fifth-face {}
+
+.fifth-face .fifth-face-first {}
+
+.fifth-face .fifth-face-middle {}
+
+.fifth-face .fifth-face-last {}
 
 .sixth-face {}
 
