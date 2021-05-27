@@ -30,49 +30,6 @@ body {
   align-self: flex-end;
 }
 
-.fourth-2-face{
-  justify-content: space-between;
-  align-content: space-between;
-}
-
-.fifth-2-face {
-  justify-content: space-between;
-  align-content: space-between;
-}
-
-.fourth-2-face .pip{
-  width: 50%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .third-face {
   flex-direction: column;
   justify-content: space-between;
